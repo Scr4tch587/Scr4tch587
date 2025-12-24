@@ -1,11 +1,17 @@
-# 💫 About Me:
-Hi! I'm Kai, a Software Engineering student at the University of Waterloo. <br><br>Outside of school, I'm a full-stack developer at the satellite team UW Orbital and I love music!
+### Hi, I’m Kai 👋
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Scr4tch587&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Scr4tch587&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Scr4tch587&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I’m a Software Engineering student at the University of Waterloo interested in **backend systems, real-time pipelines, and data-driven products**.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I like building things that are:
+- explainable
+- reproducible
+- actually usable
+
+Currently:
+- Building **Rootify**, an evidence-first system for explainable artist influence analysis
+- Developing **Wisp**, a voice-based productivity mobile app using real-time AI pipelines
+- Contributing to **UW Orbital** as a full-stack developer
+
+If any of that sounded interesting to you, give my repos a quick read!
+
+**Tools I work with:** Python, FastAPI, SQLAlchemy, PostgreSQL, React / React Native, Docker
