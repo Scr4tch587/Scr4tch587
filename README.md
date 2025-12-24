@@ -1,17 +1,17 @@
 ### Hi, I’m Kai 👋
 
-I’m a Software Engineering student at the University of Waterloo interested in **backend systems, real-time pipelines, and data-driven products**.
+i’m a Software Engineering student at the University of Waterloo interested in  **backend systems, real-time pipelines, and data-driven products**.
 
 I like building things that are:
-- explainable
-- reproducible
+- intentioned
+- results-first
 - actually usable
 
 Currently:
-- Building **Rootify**, an evidence-first system for explainable artist influence analysis
-- Developing **Wisp**, a voice-based productivity mobile app using real-time AI pipelines
-- Contributing to **UW Orbital** as a full-stack developer
+- building **Rootify**, an evidence-centered system for traceable artist influence analysis
+- developing **Wisp**, a voice-based productivity mobile app using real-time AI pipelines
+- contributing to **UW Orbital** as a full-stack developer
 
-If any of that sounded interesting to you, give my repos a quick read!
+If any of that sounded interesting to you, why don't you give the respos below a quick read?
 
-**Tools I work with:** Python, FastAPI, SQLAlchemy, PostgreSQL, React / React Native, Docker
+**My tool box:** python, fastapi, sqlalchemy, postgreSQL, react / react native, docker
