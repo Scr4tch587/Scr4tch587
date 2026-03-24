@@ -9,5 +9,5 @@ I like making things that are:
 
 Currently:
 - incoming at super.com for s26
-- developing a ml social-listening platform with [**WAT.ai**](https://watai.ca/)
-- contributing to [**UW Orbital**](https://www.uworbital.com/)'s groundstation as a full-stack developer
+- TPM leading [**WAT.ai**](https://watai.ca/)'s social-listening platform for York Region Public Health
+- building [**UW Orbital**](https://www.uworbital.com/)'s groundstation as a full-stack developer
