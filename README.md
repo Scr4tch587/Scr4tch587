@@ -3,9 +3,9 @@
 software engineering @ university of waterloo.
 
 i like backend systems that are:
-- **Idempotent**
-- **Traceable**
-- **Benchmarked**
+- **idempotent**
+- **traceable**
+- **benchmarked**
 
 Currently:
 - building **Tally**, a real-time financial reconciliation engine in Go
