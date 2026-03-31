@@ -1,6 +1,6 @@
 ### Hi, I’m Kai 👋
 
-software engineering @ university of waterloo.
+software engineering [at] university of waterloo.
 
 i like backend systems that are:
 - **idempotent**
@@ -9,7 +9,7 @@ i like backend systems that are:
 
 Currently:
 - building **Tally**, a real-time financial reconciliation engine in Go
-- incoming s26 at [**Super.conm**](https://www.super.com/)
+- incoming s26 [at] [**Super.com**](https://www.super.com/)
 - technical PM leading [**WAT.ai**](https://watai.ca/)'s social-listening platform for York Region Public Health
 - developing [**UW Orbital**](https://www.uworbital.com/)'s groundstation
 
