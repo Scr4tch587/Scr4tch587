@@ -1,6 +1,7 @@
 ### Hi, I’m Kai 👋
 
 [**kaizhang.ca**](https://kaizhang.ca/)
+
 software engineering @ university of waterloo.
 
 i like backend systems that are:
