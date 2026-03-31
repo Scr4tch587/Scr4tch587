@@ -1,13 +1,15 @@
 ### Hi, I’m Kai 👋
 
-i’m a Software Engineering student at the University of Waterloo interested in  **real-time pipelines** and **data-driven products**.
+[**kaizhang.ca**](https://kaizhang.ca/)
+software engineering @ university of waterloo.
 
-I like making things that are:
-- intentioned
-- results-first
-- actually usable
+i like backend systems that are:
+- **Idempotent**
+- **Traceable**
+- **Benchmarked**
 
 Currently:
-- incoming at super.com for s26
-- TPM leading [**WAT.ai**](https://watai.ca/)'s social-listening platform for York Region Public Health
-- building [**UW Orbital**](https://www.uworbital.com/)'s groundstation as a full-stack developer
+- building **Tally**, a streaming financial reconciliation engine in Go
+- incoming s26 at [**Super.conm**](https://www.super.com/)
+- technical PM leading [**WAT.ai**](https://watai.ca/)'s social-listening platform for York Region Public Health
+- developing [**UW Orbital**](https://www.uworbital.com/)'s groundstation
