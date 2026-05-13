@@ -1,15 +1,15 @@
-### Hi, I’m Kai 👋
+### Hi, I’m Kai
 
-software engineering at university of waterloo.
+software engineering, university of waterloo.
 
-i like backend systems that are:
+I like backend systems that are:
 - **idempotent**
-- **traceable**
-- **benchmarked**
+- **observable**
+- **durable**
 
 Currently:
-- building [**Tally**](https://github.com/Scr4tch587/tally), a real-time financial reconciliation engine in Go
-- incoming S26 intern at [**Super.com**](https://www.super.com/)
+- interning at [**Super.com**](https://www.super.com/) on the infrastructure team
 - technical PM at [**WAT.ai**](https://watai.ca/) developing a social-listening platform for York Region Public Health
+- building [**datastream**](https://github.com/Wat-Street/datastream) at [**Wat Street**](https://watstreet.netlify.app/), a pipeline for fnancial time-series data
 
 [**kaizhang.ca**](https://kaizhang.ca/)
